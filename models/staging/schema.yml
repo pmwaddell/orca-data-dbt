@@ -1,0 +1,11 @@
+
+version: 2
+
+sources:
+    - name: staging
+    # For bigquery:
+      database: orca-416402
+      schema: orca_data
+
+      tables:
+        - name: PPh3_test
