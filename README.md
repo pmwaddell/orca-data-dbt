@@ -1,1 +1,1 @@
-dbt models for data from ORCA
+dbt models for data from ORCA.
